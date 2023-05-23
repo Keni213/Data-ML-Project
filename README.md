@@ -2,13 +2,18 @@
 
 The wine industry is an extensive and complex ecosystem with thousands of wine varietals, production methods, and regions. The use of big data analytics in the wine industry has the potential to unlock invaluable insights for wine growers, winemakers, and consumers alike. In this course, we propose to explore the use of big data analytics and build a pricing model which can be applied for predicting a specific wine price by given information. This model will be valuable for market positioning and pricing strategy in the wine industry.
 
+<ul>
 This project is divided into three main parts:
-
-Part I: Data analysis and preprocessing, transform raw data into correct format for following model construction.
-
+<li>
+Part I: Data analysis and preprocessing, transform raw data into correct format for following model construction.</li>
+<li>
 Part II: Model Selection, training and tuning for two types of Regression model: Linear Regression and Logistic Regression.
-
+</li>
+<li>
 Part III: Expand research with more powerful machine learning modes: Decision Tree, Random Forest and Neural Network Model.
+</li>
+
+</ul>
 
 Model Comparison and Conclusion:
 After tuning the parameters, Linear Regression Model performance of Lasso/Ridge regression model is improved. The best performance of Lasso/Ridge model will correspond to accuracy around 54%.
