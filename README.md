@@ -4,22 +4,18 @@ The wine industry is an extensive and complex ecosystem with thousands of wine v
 
 <ul>
 This project is divided into three main parts:
-<li>
-Part I: Data analysis and preprocessing, transform raw data into correct format for following model construction.</li>
-<li>
-Part II: Model Selection, training and tuning for two types of Regression model: Linear Regression and Logistic Regression.
-</li>
-<li>
-Part III: Expand research with more powerful machine learning modes: Decision Tree, Random Forest and Neural Network Model.
-</li>
-
+<li>Part I: Data analysis and preprocessing, transform raw data into correct format for following model construction</li>
+<li>Part II: Model Selection, training and tuning for two types of Regression model: Linear Regression and Logistic Regression.</li>
+<li>Part III: Expand research with more powerful machine learning modes: Decision Tree, Random Forest and Neural Network Model.</li>
 </ul>
 
+<ul>
 Model Comparison and Conclusion:
-After tuning the parameters, Linear Regression Model performance of Lasso/Ridge regression model is improved. The best performance of Lasso/Ridge model will correspond to accuracy around 54%.
-Logistic Regression Model: the accuracy after applying with PCA remains stable around 32%.
-Neural network model: apply a neural network with more complex function and more parameters to build a multiclass classifier model.
-Random Forest performs better than Decision Tree in our Model, as it prevents overfitting and provides more accuracy prediction.
+<li>After tuning the parameters, Linear Regression Model performance of Lasso/Ridge regression model is improved. The best performance of Lasso/Ridge model will correspond to accuracy around 54%.</li>
+<li>Logistic Regression Model: the accuracy after applying with PCA remains stable around 32%.</li>
+<li>Neural network model: apply a neural network with more complex function and more parameters to build a multiclass classifier model.</li>
+<li>Random Forest performs better than Decision Tree in our Model, as it prevents overfitting and provides more accuracy prediction.</li>
+</ul>
 
 Challenges and Obstacles Faced:
 Data selection bias makes this study challenging to extract more determined factors of marketing price in the wine industry.
