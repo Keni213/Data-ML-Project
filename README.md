@@ -1,4 +1,4 @@
-<h2> Wine Data Review and Pricing Prediction </h2>
+<h2> Wine Data Review and Pricing Prediction Project</h2>
 
 The wine industry is an extensive and complex ecosystem with thousands of wine varietals, production methods, and regions. The use of big data analytics in the wine industry has the potential to unlock invaluable insights for wine growers, winemakers, and consumers alike. In this course, we propose to explore the use of big data analytics and build a pricing model which can be applied for predicting a specific wine price by given information. This model will be valuable for market positioning and pricing strategy in the wine industry.
 
